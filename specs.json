@@ -1,7 +1,7 @@
 {
     "specs": [
         {
-            "title": "Pluggable Attestation Token DID Method",
+            "title": "Pluggable Attestation Fragment DID Method",
             "spec_directory": "./spec",
             "output_path": "./",
             "markdown_paths": [
@@ -9,13 +9,13 @@
                 "abstract.md",
                 "overview.md"
             ],
-            "logo": "https://raw.githubusercontent.com/OpSecId/didpat/refs/heads/main/logo.png",
-            "logo_link": "https://github.com/OpSecId/didpat",
+            "logo": "https://raw.githubusercontent.com/OpSecId/didpaf/refs/heads/main/logo.png",
+            "logo_link": "https://github.com/OpSecId/didpaf",
             "katex": true,
             "source": {
                 "host": "github",
                 "account": "OpSecId",
-                "repo": "didpat"
+                "repo": "didpaf"
             },
             "external_specs": [
                 {
