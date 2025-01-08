@@ -1,7 +1,7 @@
 {
     "specs": [
         {
-            "title": "Pluggable Attestation Fragment DID Method",
+            "title": "Pluggable Attestation Fragments DID Method",
             "spec_directory": "./spec",
             "output_path": "./",
             "markdown_paths": [
