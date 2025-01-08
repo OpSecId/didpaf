@@ -1,8 +1,6 @@
 The `did:pat` DID Method<br>v0.1 / Editors Draft
 ==================
 
-![did:pat Logo](https://raw.githubusercontent.com/OpSecId/didpat/refs/heads/main/logo.png)
-
 **Specification Status:** EDITORS DRAFT
 
 **Specification Version:** v0.1
