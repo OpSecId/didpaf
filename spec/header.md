@@ -12,12 +12,6 @@ The `did:pat` DID Method<br>v0.1 / Editors Draft
 
 **Editors:**
 ~ [Patrick St-Louis](https://github.com/PatStLouis)
-~ [John Jordan, BC Gov](https://github.com/jljordan42)
-~ [Andrew Whitehead](https://github.com/andrewwhitehead)
-~ [Brian Richter](https://github.com/brianorwhatever)
-~ [Michel Sahli](https://github.com/bj-ms)
-~ [Martina Kolpondinos](https://github.com/martipos)
-~ [Dmitri Zagdulin](https://github.com/dmitrizagidulin)
 
 **Participate:**
 ~ [GitHub repo](https://github.com/OpSecId/didpat)
