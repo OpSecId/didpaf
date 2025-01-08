@@ -1,0 +1,31 @@
+{
+    "specs": [
+        {
+            "title": "Pluggable Attestation Token DID Method",
+            "spec_directory": "./spec",
+            "output_path": "./",
+            "markdown_paths": [
+                "header.md"
+            ],
+            "logo": "../logo.png",
+            "logo_link": "https://github.com/OpSecId/didpat",
+            "katex": true,
+            "source": {
+                "host": "github",
+                "account": "OpSecId",
+                "repo": "didpat"
+            },
+            "external_specs": [
+                {
+                    "didwebvh": "https://identity.foundation/didwebvh/next/"
+                },
+                {
+                    "didweb": "https://w3c-ccg.github.io/did-method-web/"
+                },
+                {
+                    "didkey": "https://w3c-ccg.github.io/did-method-key/"
+                }
+            ]
+        }
+    ]
+}
