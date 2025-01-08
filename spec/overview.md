@@ -2,9 +2,9 @@
 
 The following is a `tl;dr` summary of how `did:paf` works:
 
-The did syntax is `did:paf:<domain>:<uuid>`. A did document can optionally be resolved by the following translation: `https://paf.<domain>/<uuid>/did.json`. This is the same as a regular did:web transformation, except the pat subdomain is implicitly added to the domain value.
+The did syntax is `did:paf:<domain>:<uuid>`. A did document can optionally be resolved by the following translation: `https://paf.<domain>/<uuid>/did.json`. This is the same as a regular did:web transformation, except the `paf` subdomain is implicitly added to the domain value.
 
-The resolved document MUST NOT contain any verification material. It MAY contain a list of services or any other metadata at the discretion of the did controller.
+The resolved document MUST NOT contain any verification material. It SHOULD contain a list of services or metadata at the discretion of the did controller.
 
 When an attestation is made with this did, it will display a `publicKeyMultibase` encoding of the public key used for signing the data as the did fragment: `did:paf:<domain>:<uuid>#<publicKeyMultibase>`.
 
