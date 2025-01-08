@@ -1,2 +1,2 @@
-# didpat
-Pluggable Attestation Token DID Method
+# didpaf
+Pluggable Attestation Fragments DID Method
