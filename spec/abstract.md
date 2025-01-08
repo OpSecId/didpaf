@@ -1,6 +1,6 @@
 ## Abstract
 
-The Pluggable Attestation Token DID Method is a combination of the simple self-resolveable nature of did:key and the ability to list services through did:web. It should be paired with an existing did method for narrowly scoped use cases. Features include:
+The Pluggable Attestation Fragments DID Method is a combination of the simple self-resolveable nature of did:key and the ability to list services through did:web. It should be paired with an existing did method for narrowly scoped use cases. Features include:
 
 - On demand generation of new keypairs, without the need to update the DID Document.
 - The ability to list and link keypairs to use cases and identities implicitly.
