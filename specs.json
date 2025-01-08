@@ -7,7 +7,7 @@
             "markdown_paths": [
                 "header.md"
             ],
-            "logo": "../logo.png",
+            "logo": "https://raw.githubusercontent.com/OpSecId/didpat/refs/heads/main/logo.png",
             "logo_link": "https://github.com/OpSecId/didpat",
             "katex": true,
             "source": {
