@@ -1,0 +1,36 @@
+{
+    "specs": [
+        {
+            "title": "Pluggable Attestation Fragments DID Method",
+            "spec_directory": "./spec",
+            "output_path": "./",
+            "markdown_paths": [
+                "header.md",
+                "abstract.md",
+                "overview.md"
+            ],
+            "logo": "https://raw.githubusercontent.com/OpSecId/didpaf/refs/heads/main/logo.png",
+            "logo_link": "https://github.com/OpSecId/didpaf",
+            "katex": true,
+            "source": {
+                "host": "github",
+                "account": "OpSecId",
+                "repo": "didpaf"
+            },
+            "external_specs": [
+                {
+                    "didwebvh": "https://identity.foundation/didwebvh/next/"
+                },
+                {
+                    "didweb": "https://w3c-ccg.github.io/did-method-web/"
+                },
+                {
+                    "didkey": "https://w3c-ccg.github.io/did-method-key/"
+                },
+                {
+                    "linkedvp": "https://identity.foundation/linked-vp/"
+                }
+            ]
+        }
+    ]
+}
