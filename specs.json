@@ -5,7 +5,9 @@
             "spec_directory": "./spec",
             "output_path": "./",
             "markdown_paths": [
-                "header.md"
+                "header.md",
+                "abstract.md",
+                "overview.md"
             ],
             "logo": "https://raw.githubusercontent.com/OpSecId/didpat/refs/heads/main/logo.png",
             "logo_link": "https://github.com/OpSecId/didpat",
